@@ -69,7 +69,6 @@ body {
     /* vertical */
     flex-direction: column;
     width: 50%;
-    /*    min-height: 34rem; */
 }
 
 .input-style {
@@ -102,8 +101,7 @@ body {
 }
 
 .container-column-info{
-    width: 100%;
-   
+    width: 100%;  
 }
 
 div .row {
@@ -167,9 +165,9 @@ div .row {
     color: #262626;
     font-size: 14px;
 }
-/* .group:nth-child(1) {
+.group:nth-child(1) {
     min-height: 19rem;
-} */
+}
   
 .link-style {
     color: #0095f6;
